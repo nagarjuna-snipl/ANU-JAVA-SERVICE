@@ -5,4 +5,4 @@ Hi Nimbus!
 
 Nagarjuna here, I like Hadoop and data collection(that's what i made of!)
 
-I have to collect data and do analysis on that.
+I have to collect the data and do analysis on that.
